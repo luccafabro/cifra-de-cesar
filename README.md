@@ -1,3 +1,6 @@
+# atenção
+## o projeto é antigo, estava no 2° período da faculdade quando realizei, então pode haver pequenos erros
+
 # cifra-de-cesar
 Projeto desenvolvido na matéria de Estrutura de Dados I com o intuito de usar alguma estrutura de dados, nesse caso foi usado a LinkedList
 
